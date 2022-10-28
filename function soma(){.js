@@ -24,4 +24,10 @@ function teto(){
 
 }
 
-function uepa(){}
+function uepa(){
+
+}
+
+function dota(dota){
+    return "melhor que lol"
+}
